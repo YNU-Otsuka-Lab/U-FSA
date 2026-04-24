@@ -1,0 +1,30 @@
+Copyright (C) 2026, Yokohama National University, all rights reserved
+
+ACADEMIC OR NON-PROFIT ORGANIZATION NONCOMMERCIAL RESEARCH USE ONLY
+
+Permission is hereby granted, free of charge, to any academic institution or non-profit organization (hereinafter referred to as "Licensee") to use, copy, modify, and distribute this software and its associated documentation files (the "Software") for noncommercial research purposes, subject to the following conditions:
+
+1. Purpose
+The Software is provided exclusively for academic or non-profit organization noncommercial research use. Commercial use, or use by any for-profit entity, is strictly prohibited without prior written permission from the copyright holder.
+
+2. Attribution
+Any use of the Software must include proper attribution to the original author(s) and this license. Publications that result from using the Software must cite the following reference:
+M. Tajima, I. Tamura, A. Sasaki and K. Otsuka, "Unified Functional Spectrum Analysis: A Framework for Understanding Nonverbal Multimodal Multifunctional Interactions in Multiparty Conversations," IEEE Access, 2026, doi: 10.1109/ACCESS.2026.3677436.
+
+3. Redistribution
+Redistributions of the Software, whether in source code or binary form, must retain this license and the above copyright notice, as well as this list of conditions.
+
+4. Modifications
+Modifications to the Software are permitted under this license, provided that the modified version is also made available under this license and appropriately attributed.
+
+5. Prohibited Uses
+The following uses are explicitly prohibited:
+*Commercial applications or deployment, including integration into for-profit services or products.
+*Use by any for-profit entity, including, but not limited to, corporations and private companies.
+*Distribution or sublicensing of the Software for financial gain or commercial benefit.
+
+6. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER(S) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. Termination
+The rights granted under this license will automatically terminate if the Licensee fails to comply with the terms and conditions of this license.
